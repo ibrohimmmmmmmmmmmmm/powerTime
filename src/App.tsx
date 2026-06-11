@@ -7,8 +7,7 @@ import {
   Radio,
   SunMedium,
   TimerReset,
-  Wifi,
-  Zap,
+  Zap
 } from "lucide-react";
 
 import { AnimatePresence, motion } from "framer-motion";
@@ -28,8 +27,6 @@ export default function App() {
   const [voltage, setVoltage] =
     useState("");
 
-  const [consumption, setConsumption] =
-    useState("");
 
   const [txCurrent, setTxCurrent] =
     useState("");
