@@ -364,16 +364,6 @@ export default function App() {
             </div>
 
             <div className="grid gap-5  md:grid-cols-2">
-              <InputField
-                darkMode={darkMode}
-                label="Current Consumption (mA)"
-                value={consumption}
-                setValue={setConsumption}
-                icon={<Wifi />
-                  
-                }
-                
-              />
 
               <InputField
               
