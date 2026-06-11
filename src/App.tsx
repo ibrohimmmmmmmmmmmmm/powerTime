@@ -635,12 +635,12 @@ export default function App() {
                       : "border-black/10 bg-white/70"
                   }`}
                 >
-                  <h2 className="mb-4 text-[16px] lg : text-[30px] font-black text-cyan-300">
+                  <h2 className="mb-4 text-[16px] lg:text-[30px] font-black text-cyan-300">
                     {t("waiting_for_data")}
                   </h2>
 
                   <p
-                    className={`text-[12px] lg : text-[16px] ${
+                    className={`text-[12px] lg:text-[16px] ${
                       darkMode
                         ? "text-gray-400"
                         : "text-slate-700"
