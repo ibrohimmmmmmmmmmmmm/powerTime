@@ -1,0 +1,23 @@
+{
+  "moto": "МОТОРОЛА",
+  "subtitle": "Таҳлилгари батареяи RF",
+   "language": "Забон",
+   "panel": "Панели Motorola",
+   "rf_system": "СИСТЕМАИ муҳандисии RF",
+    "battery_parameters": "Параметрҳои батарея",
+        "professional_battery_runtime_estimation": "Ҳисобкунии касбии вақти кори батарея",
+            "duty_cycle": "Даври корӣ (TX / RX / бекорӣ)",
+                "battery_runtime": "Вақти кори батарея",
+                    "rf_runtime_estimation": "Ҳисобкунии вақти кори RF",
+                        "average_current": "Ҷараёни миёна",
+                            "estimated_runtime": "Вақти тахминии кор",
+                                "hours": "СОАТ",
+                                    "minutes": "ДАҚИҚА",
+                                    "seconds" : "Дакикахо",
+                                        "total_runtime": "Вақти умумии кор:",
+                                            "waiting_for_data": "Интизорӣ барои маълумот",
+                                                "enter_battery_parameters": "Параметрҳои батареяро ворид кунед, то вақти кор ҳисоб карда шавад"
+
+
+
+}

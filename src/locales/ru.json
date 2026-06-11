@@ -1,0 +1,21 @@
+{
+  "moto": "МОТОРОЛА",
+  "subtitle": "РФ анализатор батареи",
+  "language": "Язык",
+  "panel": "Панель Motorola",
+  "rf_system": "СИСТЕМА РАДИОЧАСТОТНОЙ ИНЖЕНЕРИИ",
+  "battery_parameters": "Параметры аккумулятора",
+      "professional_battery_runtime_estimation": "Профессиональная оценка времени работы аккумулятора",
+          "duty_cycle": "Коэффициент заполнения (TX / RX / простой)",
+              "battery_runtime": "Время работы аккумулятора",
+                  "rf_runtime_estimation": "Оценка времени работы RF",
+                      "average_current": "Средний ток",
+                          "estimated_runtime": "Оценочное время работы",
+                              "hours": "ЧАСЫ",
+                                  "minutes": "МИНУТЫ",
+                                  "seconds" : "Секунды",
+                                      "total_runtime": "Общее время работы:",
+                                          "waiting_for_data": "Ожидание данных",
+                                              "enter_battery_parameters": "Введите параметры аккумулятора для расчета времени работы"
+
+}

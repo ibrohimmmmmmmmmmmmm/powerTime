@@ -1,0 +1,22 @@
+{
+    "moto": "MOTOROLA",
+     "subtitle": "RF Battery Analyzer Tool",
+     "language": "Language",
+     "panel": "Motorola Panel",
+     "rf_system": "RF ENGINEERING SYSTEM",
+     "battery_parameters": "Battery Parameters",
+         "professional_battery_runtime_estimation": "Professional battery runtime estimation",
+             "duty_cycle": "Duty Cycle (TX / RX / Idle)",
+                 "battery_runtime": "Battery Runtime",
+                     "rf_runtime_estimation": "RF Runtime Estimation",
+                         "average_current": "Average Current",
+                             "estimated_runtime": "Estimated Runtime",
+                                 "hours": "HOURS",
+                                     "minutes": "MINUTES",
+                                     "seconds" : "Seconds",
+                                         "total_runtime": "Total Runtime:",
+                                             "waiting_for_data": "Waiting For Data",
+                                                 "enter_battery_parameters": "Enter battery parameters to calculate runtime"
+
+
+}
